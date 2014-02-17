@@ -1,0 +1,18 @@
+\begin{sidewaystable}[p]
+\tiny{\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|c|}
+ & Q>k/100 & Q<k/100 & Qk/100 & Q<p/k & Q<k & Q>p/k & Qmost & Qfew & Q>k & Qp/k & Qk & Qsome & Qall\\
+\hline
+brown. & 0 & 0 & 0 & 0 & 0 & 0 & 2 & 2 & 1 & 0 & 16 & 38 & 151\\
+wacky. & 50 & 28 & 28 & 352 & 1009 & 945 & 2148 & 2142 & 3848 & 4632 & 5627 & 15291 & 19651\\
+\hline
+total & 50 & 28 & 28 & 352 & 1009 & 945 & 2150 & 2144 & 3849 & 4632 & 5643 & 15329 & 19802
+\end{tabular}}
+\end{sidewaystable}
+
+
+
+\vspace{0.2cm}
+
+\begin{center}
+\includegraphics[scale=0.5]{/home/professors/cathorne/Desktop/quantifiers/wacky-script/plotting-all/Ramsey-GQs-stats.pdf}
+\end{center}

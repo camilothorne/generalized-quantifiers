@@ -1,0 +1,18 @@
+\begin{sidewaystable}[p]
+\tiny{\begin{tabular}{|c|c|c|c|c|}
+ & agg & pro & cnt & ari\\
+\hline
+brown. & 11731 & 17393 & 64846 & 687915\\
+wacky. & 539795 & 1129304 & 1983694 & 8650650\\
+\hline
+total & 551526 & 1146697 & 2048540 & 9338565
+\end{tabular}}
+\end{sidewaystable}
+
+
+
+\vspace{0.2cm}
+
+\begin{center}
+\includegraphics[scale=0.5]{/home/professors/cathorne/Desktop/quantifiers/wacky-script/plotting/Base-GQs-stats.pdf}
+\end{center}

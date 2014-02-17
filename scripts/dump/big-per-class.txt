@@ -1,0 +1,166 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian)
+entering extended mode
+
+(/home/professors/cathorne/Desktop/quantifiers/wacky-script/plotting-class/Base
+-GQs.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size10.clo))
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty)
+(/etc/texmf/tex/latex/config/graphics.cfg)
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def)))
+(/usr/share/texmf-texlive/tex/latex/oberdiek/epstopdf.sty
+(/usr/share/texmf-texlive/tex/latex/oberdiek/epstopdf-base.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/infwarerr.sty)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/grfext.sty)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/kvoptions.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/kvsetkeys.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/etexcmds.sty)))
+(/usr/share/texmf-texlive/tex/generic/oberdiek/pdftexcmds.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifluatex.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ltxcmds.sty))
+
+Package epstopdf Warning: Shell escape feature is not enabled.
+
+(/usr/share/texmf-texlive/tex/latex/latexconfig/epstopdf-sys.cfg)))
+(/usr/share/texmf-texlive/tex/latex/psnfss/times.sty)
+(/usr/share/texmf-texlive/tex/latex/rotating/rotating.sty
+(/usr/share/texmf-texlive/tex/latex/base/ifthen.sty))
+
+LaTeX Warning: Unused global option(s):
+    [a4].
+
+No file Base-GQs.aux.
+(/usr/share/texmf-texlive/tex/latex/psnfss/ot1ptm.fd)
+(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+)
+</home/professors/cathorne/Desktop/quantifiers/wacky-script/plotting-class/Base
+-GQs-stats.pdf, id=1, 361.35pt x 578.16pt>
+<use /home/professors/cathorne/Desktop/quantifiers/wacky-script/plotting-class/
+Base-GQs-stats.pdf> [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </hom
+e/professors/cathorne/Desktop/quantifiers/wacky-script/plotting-class/Base-GQs-
+stats.pdf>] [2]
+(/home/professors/cathorne/Desktop/quantifiers/wacky-script/plotting-class/Base
+-GQs.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ){/usr/share/texmf-texlive/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-texli
+ve/fonts/type1/urw/times/utmr8a.pfb>
+Output written on /home/professors/cathorne/Desktop/quantifiers/wacky-script/pl
+otting-class/Base-GQs.pdf (2 pages, 24991 bytes).
+Transcript written on /home/professors/cathorne/Desktop/quantifiers/wacky-scrip
+t/plotting-class/Base-GQs.log.
+###################################################
+GQ STATS (by class)
+###################################################
+===================================================
+brown.test
+===================================================
+---------------------------------------------------
+ Computing corpus size
+---------------------------------------------------
+==> brown.test is of size : 60647 sentences
+---------------------------------------------------
+ Computing aristotelian
+---------------------------------------------------
+==> aristotelian : 687915 matches
+---------------------------------------------------
+ Computing counting
+---------------------------------------------------
+==> counting : 64846 matches
+---------------------------------------------------
+ Computing proportional
+---------------------------------------------------
+==> proportional : 20362 matches
+===================================================
+773124 total matches
+===================================================
+wacky.test
+===================================================
+---------------------------------------------------
+ Computing corpus size
+---------------------------------------------------
+==> wacky.test is of size : 280001 sentences
+---------------------------------------------------
+ Computing aristotelian
+---------------------------------------------------
+==> aristotelian : 8650650 matches
+---------------------------------------------------
+ Computing counting
+---------------------------------------------------
+==> counting : 1983694 matches
+---------------------------------------------------
+ Computing proportional
+---------------------------------------------------
+==> proportional : 1306971 matches
+===================================================
+11941316 total matches
+###################################################
+pro
+---------------------------------------------------
+0.07: avg rel. freq
+---------------------------------------------------
+0.03: rel. freq brown.test
+20362: freq brown.test
+0.11: rel. freq wacky.test
+1306971: freq wacky.test
+###################################################
+cnt
+---------------------------------------------------
+0.125: avg rel. freq
+---------------------------------------------------
+0.08: rel. freq brown.test
+64846: freq brown.test
+0.17: rel. freq wacky.test
+1983694: freq wacky.test
+###################################################
+ari
+---------------------------------------------------
+0.8049999999999999: avg rel. freq
+---------------------------------------------------
+0.89: rel. freq brown.test
+687915: freq brown.test
+0.72: rel. freq wacky.test
+8650650: freq wacky.test
+###################################################
+###################################################
+
+
+preparing report...
+
+
+###################################################
+Simple statistical tests:
+---------------------------------------------------
+sam1 =  [1327333, 2048540, 9338565] (GQ freqs per class)
+sam2 =  [0.07, 0.13, 0.8] (GQ rel freqs per class)
+===================================================
+Skewness:
+===================================================
+0.6860981397524231
+(skewness)
+===================================================
+Entropy and relative entropy:
+===================================================
+0.9087417059624605
+(entropy)
+---------------------------------------------------
+1.5849625007211563
+(entropy max val)
+---------------------------------------------------
+0.573352180603001
+(relative entropy)
+===================================================
+X^2 test:
+===================================================
+(161656908226969.72, 0.0)
+(chi^2, p-value), df=2
+(*) if p-value < 0.05 ==> reject null
