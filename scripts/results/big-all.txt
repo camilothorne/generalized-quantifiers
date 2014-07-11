@@ -1,0 +1,378 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian)
+entering extended mode
+
+(/home/professors/cathorne/Desktop/quantifiers/wacky-script/plotting-all/Base-G
+Qs.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size10.clo))
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty)
+(/etc/texmf/tex/latex/config/graphics.cfg)
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def)))
+(/usr/share/texmf-texlive/tex/latex/oberdiek/epstopdf.sty
+(/usr/share/texmf-texlive/tex/latex/oberdiek/epstopdf-base.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/infwarerr.sty)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/grfext.sty)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/kvoptions.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/kvsetkeys.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/etexcmds.sty)))
+(/usr/share/texmf-texlive/tex/generic/oberdiek/pdftexcmds.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifluatex.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ltxcmds.sty))
+
+Package epstopdf Warning: Shell escape feature is not enabled.
+
+(/usr/share/texmf-texlive/tex/latex/latexconfig/epstopdf-sys.cfg)))
+(/usr/share/texmf-texlive/tex/latex/psnfss/times.sty)
+(/usr/share/texmf-texlive/tex/latex/rotating/rotating.sty
+(/usr/share/texmf-texlive/tex/latex/base/ifthen.sty))
+
+LaTeX Warning: Unused global option(s):
+    [a4].
+
+
+(/home/professors/cathorne/Desktop/quantifiers/wacky-script/plotting-all/Base-G
+Qs.aux) (/usr/share/texmf-texlive/tex/latex/psnfss/ot1ptm.fd)
+(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+)
+</home/professors/cathorne/Desktop/quantifiers/wacky-script/plotting-all/Base-G
+Qs-stats.pdf, id=1, 722.7pt x 578.16pt>
+<use /home/professors/cathorne/Desktop/quantifiers/wacky-script/plotting-all/Ba
+se-GQs-stats.pdf>
+Overfull \hbox (16.3491pt too wide) in paragraph at lines 27--28
+ [] 
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/professors/cathorn
+e/Desktop/quantifiers/wacky-script/plotting-all/Base-GQs-stats.pdf>] [2]
+(/home/professors/cathorne/Desktop/quantifiers/wacky-script/plotting-all/Base-G
+Qs.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ )
+(see the transcript file for additional information){/usr/share/texmf-texlive/f
+onts/enc/dvips/base/8r.enc}</usr/share/texmf-texlive/fonts/type1/urw/times/utmr
+8a.pfb>
+Output written on /home/professors/cathorne/Desktop/quantifiers/wacky-script/pl
+otting-all/Base-GQs.pdf (2 pages, 34793 bytes).
+Transcript written on /home/professors/cathorne/Desktop/quantifiers/wacky-scrip
+t/plotting-all/Base-GQs.log.
+###################################################
+GQ STATS
+###################################################
+===================================================
+brown.test
+===================================================
+---------------------------------------------------
+ Computing corpus size
+---------------------------------------------------
+==> brown.test is of size : 60647 sentences
+---------------------------------------------------
+ Computing some
+---------------------------------------------------
+==> some : 81693 matches
+---------------------------------------------------
+ Computing all
+---------------------------------------------------
+==> all : 202587 matches
+---------------------------------------------------
+ Computing the
+---------------------------------------------------
+==> the : 63376 matches
+---------------------------------------------------
+ Computing at least k
+---------------------------------------------------
+==> at least k : 1122 matches
+---------------------------------------------------
+ Computing at most k
+---------------------------------------------------
+==> at most k: 490 matches
+---------------------------------------------------
+ Computing exactly k
+---------------------------------------------------
+==> exactly k : 16455 matches
+---------------------------------------------------
+ Computing most
+---------------------------------------------------
+==> most : 1532 matches
+---------------------------------------------------
+ Computing few
+---------------------------------------------------
+==> few : 3451 matches
+---------------------------------------------------
+ Computing more than k%
+---------------------------------------------------
+==> more than k% : 2 matches
+---------------------------------------------------
+ Computing less than k%
+---------------------------------------------------
+==> less than k% : 18 matches
+---------------------------------------------------
+ Computing k/%
+---------------------------------------------------
+==> k% : 8 matches
+---------------------------------------------------
+ Computing more than p/k
+---------------------------------------------------
+==> more than p/k : 38 matches
+---------------------------------------------------
+ Computing less than p/k
+---------------------------------------------------
+==> less than p/k : 22 matches
+---------------------------------------------------
+ Computing p/k
+---------------------------------------------------
+==> p/k : 688 matches
+===================================================
+371483 total matches
+===================================================
+wacky.test
+===================================================
+---------------------------------------------------
+ Computing corpus size
+---------------------------------------------------
+==> wacky.test is of size : 280001 sentences
+---------------------------------------------------
+ Computing some
+---------------------------------------------------
+==> some : 1218302 matches
+---------------------------------------------------
+ Computing all
+---------------------------------------------------
+==> all : 2910784 matches
+---------------------------------------------------
+ Computing the
+---------------------------------------------------
+==> the : 278640 matches
+---------------------------------------------------
+ Computing at least k
+---------------------------------------------------
+==> at least k : 161578 matches
+---------------------------------------------------
+ Computing at most k
+---------------------------------------------------
+==> at most k: 81014 matches
+---------------------------------------------------
+ Computing exactly k
+---------------------------------------------------
+==> exactly k : 357629 matches
+---------------------------------------------------
+ Computing most
+---------------------------------------------------
+==> most : 100530 matches
+---------------------------------------------------
+ Computing few
+---------------------------------------------------
+==> few : 136270 matches
+---------------------------------------------------
+ Computing more than k%
+---------------------------------------------------
+==> more than k% : 708 matches
+---------------------------------------------------
+ Computing less than k%
+---------------------------------------------------
+==> less than k% : 738 matches
+---------------------------------------------------
+ Computing k/%
+---------------------------------------------------
+==> k% : 157 matches
+---------------------------------------------------
+ Computing more than p/k
+---------------------------------------------------
+==> more than p/k : 16134 matches
+---------------------------------------------------
+ Computing less than p/k
+---------------------------------------------------
+==> less than p/k : 15120 matches
+---------------------------------------------------
+ Computing p/k
+---------------------------------------------------
+==> p/k : 75046 matches
+===================================================
+5352651 total matches
+###################################################
+>p/k
+---------------------------------------------------
+0.0: avg rel. freq
+---------------------------------------------------
+0.0: rel. freq brown.test
+38: freq brown.test
+0.0: rel. freq wacky.test
+16134: freq wacky.test
+###################################################
+<p/k
+---------------------------------------------------
+0.0: avg rel. freq
+---------------------------------------------------
+0.0: rel. freq brown.test
+22: freq brown.test
+0.0: rel. freq wacky.test
+15120: freq wacky.test
+###################################################
+>k/100
+---------------------------------------------------
+0.0: avg rel. freq
+---------------------------------------------------
+0.0: rel. freq brown.test
+2: freq brown.test
+0.0: rel. freq wacky.test
+708: freq wacky.test
+###################################################
+<k/100
+---------------------------------------------------
+0.0: avg rel. freq
+---------------------------------------------------
+0.0: rel. freq brown.test
+18: freq brown.test
+0.0: rel. freq wacky.test
+738: freq wacky.test
+###################################################
+k/100
+---------------------------------------------------
+0.0: avg rel. freq
+---------------------------------------------------
+0.0: rel. freq brown.test
+8: freq brown.test
+0.0: rel. freq wacky.test
+157: freq wacky.test
+###################################################
+p/k
+---------------------------------------------------
+0.005: avg rel. freq
+---------------------------------------------------
+0.0: rel. freq brown.test
+688: freq brown.test
+0.01: rel. freq wacky.test
+75046: freq wacky.test
+###################################################
+<k
+---------------------------------------------------
+0.01: avg rel. freq
+---------------------------------------------------
+0.0: rel. freq brown.test
+490: freq brown.test
+0.02: rel. freq wacky.test
+81014: freq wacky.test
+###################################################
+most
+---------------------------------------------------
+0.01: avg rel. freq
+---------------------------------------------------
+0.0: rel. freq brown.test
+1532: freq brown.test
+0.02: rel. freq wacky.test
+100530: freq wacky.test
+###################################################
+>k
+---------------------------------------------------
+0.015: avg rel. freq
+---------------------------------------------------
+0.0: rel. freq brown.test
+1122: freq brown.test
+0.03: rel. freq wacky.test
+161578: freq wacky.test
+###################################################
+few
+---------------------------------------------------
+0.02: avg rel. freq
+---------------------------------------------------
+0.01: rel. freq brown.test
+3451: freq brown.test
+0.03: rel. freq wacky.test
+136270: freq wacky.test
+###################################################
+k
+---------------------------------------------------
+0.05500000000000001: avg rel. freq
+---------------------------------------------------
+0.04: rel. freq brown.test
+16455: freq brown.test
+0.07: rel. freq wacky.test
+357629: freq wacky.test
+###################################################
+the
+---------------------------------------------------
+0.11000000000000001: avg rel. freq
+---------------------------------------------------
+0.17: rel. freq brown.test
+63376: freq brown.test
+0.05: rel. freq wacky.test
+278640: freq wacky.test
+###################################################
+some
+---------------------------------------------------
+0.225: avg rel. freq
+---------------------------------------------------
+0.22: rel. freq brown.test
+81693: freq brown.test
+0.23: rel. freq wacky.test
+1218302: freq wacky.test
+###################################################
+all
+---------------------------------------------------
+0.545: avg rel. freq
+---------------------------------------------------
+0.55: rel. freq brown.test
+202587: freq brown.test
+0.54: rel. freq wacky.test
+2910784: freq wacky.test
+###################################################
+###################################################
+1556686.0 = max avg freq
+6.19220101962 = max avg freq (log)
+83.0 = min avg freq
+1.91907809238 = min avg freq (log)
+###################################################
+2862073.0 = max avg cumul freq
+6.45668070667 = max avg cumul freq (log)
+###################################################
+(sl,int) : [4.03851804800872, 3.5125716542294114]
+r^2      : 0.975689841073
+###################################################
+(sl,int) : [3.6436157110436134, 3.5095203735130487]
+r^2      : 0.943614208153
+###################################################
+(sl,int) : [4.03851804800872, 3.5125716542294114]
+r^2      : 0.975689841073
+###################################################
+(sl,int) : [3.6436157110436134, 3.5095203735130487]
+r^2      : 0.943614208153
+###################################################
+
+
+preparing report...
+
+
+###################################################
+Simple statistical tests:
+---------------------------------------------------
+sam1 =  [16172, 15142, 710, 756, 165, 75734, 81504, 102062, 162700, 139721, 374084, 342016, 1299995, 3113371] (GQ freqs per class)
+sam2 =  [0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.01, 0.01, 0.01, 0.02, 0.06, 0.11, 0.23, 0.55] (GQ rel freqs per class)
+===================================================
+Skewness:
+===================================================
+2.613171437414297
+(skewness)
+===================================================
+Entropy and relative entropy:
+===================================================
+1.934492431247424
+(entropy)
+---------------------------------------------------
+3.8073549220576037
+(entropy max val)
+---------------------------------------------------
+0.5080935376001061
+(relative entropy)
+===================================================
+X^2 test:
+===================================================
+(32765675705165.012, 0.0)
+(chi^2, p-value), df=13
+(*) if p-value < 0.05 ==> reject null
