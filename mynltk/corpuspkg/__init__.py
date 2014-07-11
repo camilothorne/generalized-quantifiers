@@ -9,9 +9,9 @@
 
 
 
-#from lexstatistics import *
-#from boxerstats import *
-#from pattstats import *
+from lexstatistics import *
+from boxerstats import *
+from pattstats import *
 
 
 # 0. Corpora root files and format
