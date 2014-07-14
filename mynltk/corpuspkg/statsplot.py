@@ -10,7 +10,7 @@
 from __future__ import division
 import array
 import matplotlib as mpl
-mpl.use('Agg')
+#mpl.use('Agg') # uncomment to use in environments other than UNIX
 from matplotlib import pylab, cm
 from numpy import *
 from numpy import log10
@@ -38,8 +38,8 @@ class MyPlot:
         self.classstats = classstats
         self.name = name
         self.cl = cl
-	self.path = path
-	self.li = li
+        self.path = path
+        self.li = li
         if self.cl == "one":
             self.plotClass(stats,classstats,len(classstats),name,path,li)
         if self.cl == "two":
