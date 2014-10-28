@@ -272,7 +272,7 @@ class MyPlot:
         ax.grid(False)
         # set y axis label
         ax.set_ylabel("relative frequency",fontsize='12')
-        self.plotLegend(ax,li)
+        #self.plotLegend(ax,li)
 
     
     # class distribution (rel frequency) plot, no means
